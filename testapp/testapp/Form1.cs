@@ -36,5 +36,10 @@ namespace testapp
         {
 
         }
+
+        private void clicky1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Thanks again!");
+        }
     }
 }
